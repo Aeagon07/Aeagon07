@@ -49,6 +49,6 @@ I'm a passionate learner currently diving deep into DevOps while having a solid 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/rushikesh-vijay-godase07)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rushikesh-vijay-godase07/)
 - 📧 Email: godaserushikesh07@gmail.com
 
