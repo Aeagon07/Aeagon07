@@ -43,14 +43,12 @@ I'm a passionate learner currently diving deep into DevOps while having a solid 
 ---
 
 ### 🌟 Notable Projects
-- 📘 [Project 1 Name](https://github.com/yourusername/project1)
-- 📘 [Project 2 Name](https://github.com/yourusername/project2)
-- 📘 [Project 3 Name](https://github.com/yourusername/project3)
+- 📘 [Nike UI/UX](https://github.com/Aeagon07/Nike.git) - A sleek and responsive Nike website clone built using React.js and Tailwind CSS
+- 📘 [Imaginify - AI SaaS Platform](https://github.com/Aeagon07/Imaginify_Ai_Platform.git)
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/rushikesh-vijay-godase07)
+- 📧 Email: godaserushikesh07@gmail.com
 
