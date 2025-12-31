@@ -2,7 +2,7 @@
 
 <h3 align="center">
  🎓 B.Tech in Artificial Intelligence and Data Science<br>
- 💻 MERN Stack Developer | Python Devloper | DevOps Enthusiast
+ 💻 MERN Stack Developer | Python Devloper | DevOps Enthusiast | Blockchain Learner | ML/NLP | LLMs
 </h3>
 
 ---
