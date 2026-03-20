@@ -1,8 +1,19 @@
-<h1 align="center">👋 Hey there, I'm Rushikesh Godase</h1>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4CF7FF&center=true&vCenter=true&width=950&pause=300&lines=Hey+👋+I'm+Rushikesh+Godase;MERN+Stack+Developer;Blockchain+Developer;GenAI+Engineer;DevOps+Enthusiast;Building+real-world+systems+that+actually+matter+🚀" />
+</p>
 
+<!-- Short Impact Statement -->
+<p align="center">
+  <em style="color:#9BE7FF">
+    Not just learning tech — building systems that solve real problems.
+  </em>
+</p>
+
+<!-- Strong Positioning -->
 <h3 align="center">
- 🎓 B.Tech in Artificial Intelligence and Data Science<br>
- 💻 MERN Stack Developer | Python Devloper | DevOps Enthusiast | Blockchain Learner | ML/NLP | LLMs
+ 🎓 B.Tech in Artificial Intelligence & Data Science <br>
+ ⚙️ System Engineer | Blockchain & AI Developer  | Backend & Distributed Systems
 </h3>
 
 ---
@@ -36,8 +47,6 @@ I'm a passionate learner currently diving deep into DevOps while having a solid 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </p>
-
-
 
 
 ---
